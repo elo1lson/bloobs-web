@@ -1,3 +1,9 @@
+/**
+ * Feito por eloilson
+ * Github: elo1lson
+ * Feito e atualizado em 06/06/22
+ */
+
 document.addEventListener('DOMContentLoaded', function () {
 
     document.getElementById("img-theme").addEventListener("click", theme)

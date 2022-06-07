@@ -2,5 +2,8 @@
   "name": "Google Bloobs",
   "description": "Bloobs photos in your browser!!!",
   "version": "1.0",
-  "manifest_version": 3
+  "manifest_version": 3,
+  "chrome_url_overrides": {
+    "newtab": "newTab.html"
+  }
 }

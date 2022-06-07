@@ -23,9 +23,11 @@ body {
     top: 20px;
     max-height: 50px;
 }
-.img-theme{
+
+.img-theme {
     width: 40px;
 }
+
 .box {
     margin: auto;
     max-width: 600px;
